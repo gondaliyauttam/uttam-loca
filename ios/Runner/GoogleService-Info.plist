@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>188625125660-r68ii0i5uqkh9qpm2p4ajeftbbv6mmbu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.188625125660-r68ii0i5uqkh9qpm2p4ajeftbbv6mmbu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBhYkJoECZsJZW25_XiKlx5-BOtRhvbcIk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>188625125660</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.depixed.locabird</string>
+	<key>PROJECT_ID</key>
+	<string>loca-bird</string>
+	<key>STORAGE_BUCKET</key>
+	<string>loca-bird.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:188625125660:ios:6c6c62109d63932721bad9</string>
+	<key>DATABASE_URL</key>
+	<string>https://loca-bird.firebaseio.com</string>
+</dict>
+</plist>

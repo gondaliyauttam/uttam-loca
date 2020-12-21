@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "188625125660",
+    "firebase_url": "https://loca-bird.firebaseio.com",
+    "project_id": "loca-bird",
+    "storage_bucket": "loca-bird.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188625125660:android:17ef6a61aebd1d9821bad9",
+        "android_client_info": {
+          "package_name": "com.depixed.locabird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188625125660-rlm7vqrmea1gegkjbsak9fksf1tp6rfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7GpxEKgtjJ9R_q7Epr1SwTUy5-nnx_gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188625125660-rlm7vqrmea1gegkjbsak9fksf1tp6rfn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "188625125660-r68ii0i5uqkh9qpm2p4ajeftbbv6mmbu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.depixed.locabird"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

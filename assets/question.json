@@ -1,0 +1,68 @@
+[
+  {
+    "eng": [
+        {
+          "id": 1,
+          "response": false,
+          "statement": "I hereby confirm that I haven't had any complaints in the past 24 hours: Coughing, Nasal colds, Fever from 38 degrees and / or shortness of breath."
+        },
+        {
+          "id": 2,
+          "response": false,
+          "statement": " I confirm that at this moment I don't have a roommate with fever and/or anxiety problems."
+        },
+        {
+          "id": 3,
+          "response": false,
+          "statement": " I confirm that I have not had any coronavirus which has been diagnosed in the past 7 days (in a lab)."
+        },
+        {
+          "id": 4,
+          "response": false,
+          "statement": " I confirm that I have had no contact in the past 14 days with a roommate / family member who had complaints of the Corona Virus."
+        },
+        {
+          "id": 5,
+          "response": false,
+          "statement": " I confirm that at this moment I am not in home isolation because I would have been in contact with someone who has been diagnosed with the Corona Virus."
+        },
+        {
+          "id": 6,
+          "response": false,
+          "statement": "I confirm that I am keeping this health statement up to date in my user profile."
+        }
+      ],
+    "dutch": [
+        {
+          "id": 1,
+          "response": false,
+          "statement": "Hierbij bevestig ik, dat ik de afgelopen 24 uur geen last heb gehad van de onderstaande klachten: Hoesten, Neusverkoudheid, Koorts vanaf 38 graden en/ of benauwdheidsklachten."
+        },
+        {
+          "id": 2,
+          "response": false,
+          "statement": " Ik bevestig dat ik op dit moment geen huisgenoot heb met koorts en/ of benauwdheidsklachten."
+        },
+        {
+          "id": 3,
+          "response": false,
+          "statement": " Ik bevestig dat ik geen ik geen coronavirus heb gehad welke in de afgelopen 7 dagen is vastgesteld (in een lab)."
+        },
+        {
+          "id": 4,
+          "response": false,
+          "statement": " Ik bevestig dat ik in de afgelopen 14 dagen geen contact heb gehad met een huisgenoot/ gezinslid welke klachten had van het Corona Virus."
+        },
+        {
+          "id": 5,
+          "response": false,
+          "statement": " Ik bevestig dat ik op dit moment niet in thuisisolatie ben omdat ik contact zou hebben gehad met iemand waarbij het Coronavirus is vastgesteld."
+        },
+        {
+          "id": 6,
+          "response": false,
+          "statement": "Ik bevestig dat ik deze gezondheidsverklaring up to date houd in mijn gebruikersprofiel."
+        }
+      ]
+  }
+]
